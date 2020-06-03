@@ -19,17 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c5edc00-c21b-48f7-8c42-a484dd44f567" name="Default Changelist" comment="І">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/web_1_ver_1.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="1c5edc00-c21b-48f7-8c42-a484dd44f567" name="Default Changelist" comment="І" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591201965320</updated>
       <workItem from="1591202009728" duration="2251000" />
-      <workItem from="1591204859376" duration="79000" />
+      <workItem from="1591204859376" duration="483000" />
     </task>
     <task id="LOCAL-00001" summary="І">
       <created>1591202194856</created>
@@ -68,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591202194857</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="І">
+      <created>1591204965441</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591204965441</updated>
+    </task>
+    <task id="LOCAL-00003" summary="І">
+      <created>1591204988309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591204988309</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +122,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591204939829" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1591205002604">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591205002604" />
     <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591202123761">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
